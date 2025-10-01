@@ -1,0 +1,11 @@
+[package]
+name = "combat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+avian2d = "0.3.0"
+bevy = "0.16.0"
+bevy_ecs_tiled = { version = "0.8", features = ["avian"] }
+rand = "0.9.1"
+serde = "1.0.219"
