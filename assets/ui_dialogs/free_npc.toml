@@ -1,0 +1,5 @@
+text = "Hello"
+
+[options]
+description = "Hire (500Xp)"
+choices = ["Hire", "Cancel"]

@@ -1,0 +1,151 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/maps/map.tmx",
+    "expandedProjectPaths": [
+        "assets/maps",
+        "assets/Magic Market/Tilesets",
+        "assets/Magic Market",
+        "assets",
+        "assets/tilesets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/lowin/Documents/projects/tiled/tuto/swamp.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Magic Market/Tilesets/Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset floor - 16x16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 16x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 32x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 48x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset props - 48x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/Magic Market/Tilesets/Tileset water - 16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "assets/Magic Market/Tilesets/testing.tmx": {
+            "scale": 0.8035416666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.37334716100594,
+                "y": 479.75110189266263
+            }
+        },
+        "assets/maps/dummy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 23
+        },
+        "assets/maps/map.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1410,
+                "y": 527
+            }
+        },
+        "assets/maps/swamp.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/maps/testing.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 480,
+                "y": 480.25
+            }
+        },
+        "assets/tilesets/dummy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/head_quarter.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/tilesets/tent_spot.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "assets/tilesets/tree.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        }
+    },
+    "frame.defaultDuration": 200,
+    "last.imagePath": "/home/lowin/Documents/projects/rust/bevy/combat/assets",
+    "last.objectTypesPath": "/home/lowin/Documents/projects/rust/bevy/combat/assets/classes/dummy.json",
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "assets/maps/map.tmx",
+        "assets/maps/testing.tmx",
+        "assets/Magic Market/Tilesets/Tileset floor - 16x16.tsx",
+        "assets/tilesets/head_quarter.tsx",
+        "assets/tilesets/tent_spot.tsx",
+        "assets/tilesets/tree.tsx",
+        "assets/Magic Market/Tilesets/Tileset props - 16x16.tsx",
+        "assets/Magic Market/Tilesets/Tileset props - 16x32.tsx",
+        "assets/maps/dummy.tsx",
+        "assets/tilesets/dummy.tsx"
+    ],
+    "project": "maps.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "assets/tilesets/dummy.tsx",
+        "assets/maps/dummy.tsx",
+        "assets/Magic Market/Tilesets/Tileset props - 16x32.tsx",
+        "assets/Magic Market/Tilesets/Tileset props - 16x16.tsx",
+        "assets/tilesets/tree.tsx",
+        "assets/tilesets/tent_spot.tsx",
+        "assets/tilesets/head_quarter.tsx",
+        "assets/Magic Market/Tilesets/Tileset floor - 16x16.tsx",
+        "assets/maps/testing.tmx",
+        "assets/maps/map.tmx",
+        "assets/Magic Market/Tilesets/testing.tmx",
+        "assets/Magic Market/Tilesets/Tileset props - 32x32.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
